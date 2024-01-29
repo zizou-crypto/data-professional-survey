@@ -15,11 +15,11 @@
 ## Skills Demonstrated
 The folowing power BI features were incorporated; New column, delete column, replace values, quick measures, filters and split columns.
 The data was transformed using the following features before it was loaded into the visualization pane for the analysis to be done.
-
+![](data_transformation_for_survey.png)
 ## Visualization
 The report page consists of the visualization pane, filters and data. the report page consists of the solved problem analysis done from the 
 transformation and to show the insight analysis.
-
+![](dashboard_for_survey.png)
 ## Conclusiom
 - The average age of the survey takers is 29.87
 - The total number of takers are 630
